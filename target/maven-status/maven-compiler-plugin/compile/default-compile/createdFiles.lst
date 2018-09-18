@@ -1,0 +1,6 @@
+com/primola/biddingws/AuctionServiceVerticle.class
+com/primola/biddingws/AuctionHandler.class
+com/primola/biddingws/AuctionNotFoundException.class
+com/primola/biddingws/Auction.class
+com/primola/biddingws/AuctionRepository.class
+com/primola/biddingws/AuctionValidator.class
